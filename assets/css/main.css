@@ -30,9 +30,15 @@ a span {
 a span:hover {
  color:#000000;
 }
-.additional-text {
+.information {
+	font-size: 12px;
+	margin-bottom: 2em;
+	padding: 3px;
+}
+.information p {
 	font-size: 12px;
 	color: gray;
+	margin-bottom: 5px;
 }
 
 html, body, div, span, applet, object,
@@ -3170,3 +3176,7 @@ input, select, textarea {
 				}
 
 	}
+
+.text-align-left {
+	text-align: left;
+}
