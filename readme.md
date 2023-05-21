@@ -2,7 +2,7 @@
 
 <p>
   ⚡ Deployed on the Github Pages platform: 
-  <a href="https://vitaliyminaev.github.io/" target="_blank">link</a>
+  <a href="https://vitaliybezugly.github.io/" target="_blank">link</a>
 </p>
 
 <p>
