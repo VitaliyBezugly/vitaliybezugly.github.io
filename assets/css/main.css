@@ -3180,3 +3180,8 @@ input, select, textarea {
 .text-align-left {
 	text-align: left;
 }
+
+div.skills ul li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
