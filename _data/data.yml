@@ -1,0 +1,137 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Vitaliy Bezugly
+    tagline: .NET Developer
+    avatar: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: vitalii.minaev.dev@gmail.com
+    phone: +380 95 407 82 50
+    timezone:
+    citizenship: Kyiv
+    website: #do not add http://
+    linkedin: vitaliy-bezugly
+    xing:
+    github: vitaliy-bezugly
+    telegram: vitaliybezugly
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Upper-Intermediate
+
+        - idiom: Ukrainian
+          level: Native
+
+    interests:
+      title:
+      info:
+        - item:
+          link:
+
+        - item:
+          link:
+
+        - item:
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      .NET Developer with five more than 2 years of non-commercial experience managing multiple 
+      software development projects. 
+      Proficient in developing end-to-end solutions using the .NET framework, combining expertise in both frontend 
+      and backend development. Skilled in designing and implementing scalable architectures, crafting intuitive 
+      user interfaces, and integrating with various databases and APIs. Committed to delivering high-quality and 
+      performant applications that meet clients' needs and exceed their expectations.
+education:
+    title: Education
+    info:
+      - degree: BSc in Computer Engineering
+        university: Kharkiv National University of Radio Electronics
+        time: 2020 - 2024
+        details: 
+
+experiences:
+    title: Non-commercial Experience
+    info:
+      - role: Junior Backend Developer
+        time: Feb 2023 - Present
+        company: Project - Property Search
+        details:
+
+      - role: Junior Fullstack Developer
+        time: Aug 2022 - Apr 2023
+        company: Project - Task Manager
+        details: Full details can be found in the Projects section.
+
+projects:
+    title: Projects
+    intro: >
+      Throughout the development process, I utilized a combination of ASP .NET Core, Angular, Entity Framework Core, MS SQL, Docker, 
+      XUnit, ASP .NET Core Identity, and GitHub Actions. These technologies and tools provided me with a powerful toolkit to build 
+      dynamic web applications with efficient backend systems and seamless user interfaces. 
+      
+      The projects were successfully deployed using the Heroku service. This cloud platform provided a reliable and scalable environment 
+      for hosting the applications, allowing them to be accessible to users across the globe.
+    assignments:
+      - title: Property Search
+        link: "https://property-search-plus.herokuapp.com/"
+        tagline: "The Home Rental Offer Web Application allows users to create and manage their home rental offers."
+
+      - title: Task Manager
+        link: "https://taskmanager-plus.herokuapp.com/"
+        tagline: "Web Application allows users to manage their tasks by creating a new account, logging in, and adding tasks to their account."
+
+      - title: Cryptocurrencies Management App
+        link: "https://github.com/vitaliy-bezugly/cryptocurrencies-management"
+        tagline: "This is a WPF application that provides users with various information related to cryptocurrencies."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: ASP .NET Core
+        level: 98%
+
+      - name: C#
+        level: 98%
+
+      - name: SQL
+        level: 98%
+
+      - name: Docker
+        level: 95%
+
+      - name: Angular
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 88%
+
+      - name: Communication
+        level: 98%
+
+      - name: Open-mindedness
+        level: 98%
+
+      - name: Teamwork
+        level: 98%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
