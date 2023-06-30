@@ -66,50 +66,27 @@ education:
         university: Kharkiv National University of Radio Electronics
         time: 2020 - 2024
         details: 
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Throughout the development process, I utilized a combination of ASP .NET Core, Angular, Entity Framework Core, MS SQL, Docker, 
+      XUnit, ASP .NET Core Identity, and GitHub Actions. These technologies and tools provided me with a powerful toolkit to build 
+      dynamic web applications with efficient backend systems and seamless user interfaces. 
+      
+      The projects were successfully deployed using the Heroku service. This cloud platform provided a reliable and scalable environment 
+      for hosting the applications, allowing them to be accessible to users across the globe.
     assignments:
       - title: Property Search
-        link: "property-search-plus.herokuapp.com/"
+        link: "https://property-search-plus.herokuapp.com/"
         tagline: "The Home Rental Offer Web Application allows users to create and manage their home rental offers."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Task Manager
+        link: "https://taskmanager-plus.herokuapp.com/"
+        tagline: "Web Application allows users to manage their tasks by creating a new account, logging in, and adding tasks to their account."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Cryptocurrencies Management App
+        link: "https://github.com/vitaliy-bezugly/cryptocurrencies-management"
+        tagline: "This is a WPF application that provides users with various information related to cryptocurrencies."
 
 oss:
     title: OSS Contributions
@@ -136,6 +113,12 @@ skills:
     toolset:
       - name: ASP .NET Core
         level: 98%
+
+      - name: SQL
+        level: 98%
+
+      - name: Docker
+        level: 95%
 
       - name: Angular
         level: 90%
