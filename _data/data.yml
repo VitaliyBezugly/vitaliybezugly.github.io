@@ -53,12 +53,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      .NET Developer with five more than 2 years of non-commercial experience managing multiple 
-      software development projects. 
-      Proficient in developing end-to-end solutions using the .NET framework, combining expertise in both frontend 
-      and backend development. Skilled in designing and implementing scalable architectures, crafting intuitive 
+      <p>.NET Developer with five more than 2 years of non-commercial experience managing multiple 
+      software development projects.</p>
+      <p>Proficient in developing end-to-end solutions using the .NET framework, combining expertise in both frontend 
+      and backend development. </p>
+      <p>Skilled in designing and implementing scalable architectures, crafting intuitive 
       user interfaces, and integrating with various databases and APIs. Committed to delivering high-quality and 
-      performant applications that meet clients' needs and exceed their expectations.
+      performant applications that meet clients' needs and exceed their expectations.</p>
 education:
     title: Education
     info:
@@ -83,12 +84,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Throughout the development process, I utilized a combination of ASP .NET Core, Angular, Entity Framework Core, MS SQL, Docker, 
+      <p>Throughout the development process, I utilized a combination of ASP .NET Core, Angular, Entity Framework Core, MS SQL, Docker, 
       XUnit, ASP .NET Core Identity, and GitHub Actions. These technologies and tools provided me with a powerful toolkit to build 
-      dynamic web applications with efficient backend systems and seamless user interfaces. 
+      dynamic web applications with efficient backend systems and seamless user interfaces.</p>
       
-      The projects were successfully deployed using the Heroku service. This cloud platform provided a reliable and scalable environment 
-      for hosting the applications, allowing them to be accessible to users across the globe.
+      <p>The projects were successfully deployed using the Heroku service. This cloud platform provided a reliable and scalable environment 
+      for hosting the applications, allowing them to be accessible to users across the globe.</p>
     assignments:
       - title: Property Search
         link: "https://property-search-plus.herokuapp.com/"
@@ -101,6 +102,17 @@ projects:
       - title: Cryptocurrencies Management App
         link: "https://github.com/vitaliy-bezugly/cryptocurrencies-management"
         tagline: "This is a WPF application that provides users with various information related to cryptocurrencies."
+
+oss:
+    title: OSS Contributions
+    intro: >
+      <p>These projects reflect my passion for creating impactful software solutions and my commitment to advancing the field of technology. Through my contributions, I have had the opportunity to work alongside talented developers from around the world, contributing code, implementing features, and addressing issues to improve the projects' functionality and user experience.</p>
+      <p>Each project represents a unique set of challenges and opportunities for growth. I have embraced these challenges, allowing me to refine my technical skills, learn from experienced developers, and adopt best practices in software development.</p>
+      <p>Below, you will find a curated selection of my open source projects:</p>
+    contributions:
+      - title: QueryPressure
+        link: "https://github.com/podkolzzzin/QueryPressure"
+        tagline: "is a project that allows developers to run diverse tests on various persistence storage systems, including Relational Databases, NoSQL Databases, ElasticSearch, and Redis. With its flexible plugin system, developers can create custom plugins to test specific data storage systems, while benefiting from the integrated ASP.NET Core and React framework."
 
 skills:
     title: Skills &amp; Proficiency
